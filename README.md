@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    🐹 HaruCalendar 🐹
+    🐹 HaruConnection 🐹
 </h1>
 
 
