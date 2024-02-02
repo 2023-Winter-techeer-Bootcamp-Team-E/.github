@@ -84,7 +84,7 @@
 ### ☁️ 다이어리 꾸미기 및 다이어리 작성 ☁️<br>
 - 실시간으로 링크를 친구들과 공유 후 세상에 하나밖에 없는 다이어리를 작성 해 보세요. 
 
-<img width="700" alt="image" src="./images/websocket.gif">
+<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/d34019d1-2791-47f9-8335-afdbd1e8e15e">
 
 <br>
 <br>
@@ -94,8 +94,8 @@
 - 뽑아진 키워드를 바탕으로 Dall-e 3 가 세상에 하나 밖에 없는 스티커를 만들어 드립니다.
 
   
-<img width="700" alt="image" src="./images/stickerscreate.gif">
-<img width="700" alt="image" src="./images/stickercreate2.gif">
+<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/dfb87714-1790-4f86-87bb-b91d43bdb371">
+<img width="700" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/bbe84cc9-7c12-4e24-9c4a-51d9b6a66490">
 </p>
 <br>
 <br>
@@ -108,12 +108,12 @@
 
 ## 🛠 ️System Archtecture
 <p align="left">
-<img width="700" src="./images/archtecture.jpg">
+<img width="700" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/420084c6-195d-4dbc-9c27-9d2a88f6df4d">
 </p>
 
 ## 🔑 ERD
 <p align="left">
-<img width="700" src="./images/ERD.png">
+<img width="700" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/ed4dd8eb-1d5c-40dd-bce1-66d295cfdcc8">
 </p>
 
 ## 💻 Tech Stack
@@ -156,7 +156,7 @@
 
 ### 일기, 유저 관련 API
 
-<img width="1212" alt="image" src="./images/swagger.png"><br>
+<img width="1212" alt="image" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/04c0b52f-2aeb-4acd-a1fc-29e8634a676c"><br>
 
 | Calendars API | Diaries API |Members API|Static API|                                                                                                                                                                             
 |---------------|-------------|--|----|
@@ -180,6 +180,6 @@
 
 | [정우희](https://github.com/Joy0w0)         | [정유진](https://github.com/GaBaljaintheroom)  | [조진우](https://github.com/alswlfl29)          | [이동우](https://github.com/gs0428)            | [이도경]()                                     | [강정현]()                                     | [김우성]()                                     
 |------------------------------------------|---------------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| <img width=520  src="./images/jwh.jpeg"> | <img width = "520" src ="./images/jyj.jpg"> | <img width = "520" src ="./images/jjw.jpeg"> | <img width = "520" src ="./images/ldw.png"> | <img width = "520" src ="./images/ldg.png"> | <img width = "520" src ="./images/gjh.jpg"> | <img width = "520" src ="./images/kws.jpg"> |
+| <img width=520  src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/e2b0df38-582e-473d-a442-c0a807629dd4"> | <img width = "520" src ="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/99ca9add-f653-4b3c-ad27-aa1908e15bfc"> | <img width = "520" src ="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/36568929-4d87-4238-a3b4-21545d19adab"> | <img width = "520" src ="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/492250d0-3e37-446f-a8db-08ce734e010b"> | <img width = "520" src ="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/2e094dc6-6c2c-4b7e-aa83-395544dce631"> | <img width = "520" src ="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/1e46d8e5-f0ee-485d-b707-aa9ae06ac3af"> | <img width = "520" src ="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/061bc448-8a1b-4e1f-b003-877a6479da84"> |
 | Leader, frontend, DevOps                 | frontend                                    | frontend                                     | Backend, DevOps                             | Backend                                     | Backend                                     | Backend                                     |
 
