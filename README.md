@@ -1,11 +1,3 @@
-<style>
-  .highlighted-text {
-    text-align: center;
-    font-size: 22px; /* 원하는 크기로 조절하세요 */
-    color: #87CEEB; /* 하늘색으로 변경 */
-    /*font-family: 'Comic Sans MS'*/
-  }
-</style>
 
 <h1 align="center">
     🐹 HaruCalendar 🐹
