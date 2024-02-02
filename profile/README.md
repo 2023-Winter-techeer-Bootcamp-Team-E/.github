@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img width="500" alt="image" src="profile/images/intro.webp">
+  <img width="500" alt="image" src="./profile/images/intro.webp">
 </p>
 
 
@@ -23,7 +23,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img width="300" alt="image" src="profile/images/intro2.png">
+            <img width="300" alt="image" src="./profile/images/intro2.png">
         </td>
         <td width="600" align="center">
             <div align="left">
@@ -57,8 +57,8 @@
 <p align="left">
 
 
-<img width="700" alt="image" src="profile/images/signup.gif">
-<img width="700" alt="image" src="profile/images/login.gif">
+<img width="700" alt="image" src="./profile/images/signup.gif">
+<img width="700" alt="image" src="./profile/images/login.gif">
 <br>
 <br>
 
@@ -66,11 +66,11 @@
 - 제공 되어지는 기본스티커로 캘린더를 꾸밀 수 있습니다
 - 웹소켓 이용 gif 들어 갈 예정
 
-<img width="700" alt="image" src="profile/images/calendarcreate.gif"> <br>
+<img width="700" alt="image" src="./profile/images/calendarcreate.gif"> <br>
 
 - 다이어리 작성 아이콘을 누르면 다이어리 배경지 및 친구와 다이어리를 공유할 수 있는 링크가 생성됩니다. 
 
-<img width="700" alt="image" src="profile/images/diarycreate.gif">
+<img width="700" alt="image" src="./profile/images/diarycreate.gif">
 
 <br>
 <br>
@@ -78,13 +78,13 @@
 ###  다이어리 꾸미기 및 다이어리 작성<br>
 - 공유한 링크를 친구들에게 보내 친구와 함께 세상에 하나밖에 없는 다이어리를 작성 해 보세요~!
 
-<img width="700" alt="image" src="profile/images/diary.gif">
+<img width="700" alt="image" src="./profile/images/diary.gif">
 
 <br>
 
 - 친구들과 다이어리를 작성 후 제공되어지는 기본스티커를 이용하여 다이어리를 꾸미고 "저장"을 누르면 기본적인 작성이 완료가 됩니다.
 
-<img width="700" alt="image" src="profile/images/diary.gif">
+<img width="700" alt="image" src="./profile/images/diary.gif">
 <br>
 <br>
 
@@ -93,7 +93,7 @@
 - 뽑아진 키워드를 바탕으로 Dall-e 3 가 세상에 하나 밖에 없는 스티커를 만들어 드립니다.
 
   
-<img width="700" alt="image" src="profile/images/stickerscreate.gif">
+<img width="700" alt="image" src="./profile/images/stickerscreate.gif">
 </p>
 <br>
 <br>
@@ -106,12 +106,12 @@
 
 ## 🛠 ️System Archtecture
 <p align="left">
-<img width="700" src="profile/images/archtecture.jpg">
+<img width="700" src="./profile/images/archtecture.jpg">
 </p>
 
 ## 🔑 ERD
 <p align="left">
-<img width="700" src="profile/images/ERD.png">
+<img width="700" src="./profile/images/ERD.png">
 </p>
 
 ## 💻 Tech Stack
@@ -155,7 +155,7 @@
 
 ### 일기, 유저 관련 API
 
-<img width="1212" alt="image" src="profile/images/swagger.png"><br>
+<img width="1212" alt="image" src="./profile/images/swagger.png"><br>
 
 | Calendars API | Diaries API |Members API|Static API|                                                                                                                                                                             
 |---------------|-------------|--|----|
@@ -179,6 +179,6 @@
 
 | [정우희](https://github.com/Joy0w0)         | [정유진](https://github.com/GaBaljaintheroom)  | [조진우](https://github.com/alswlfl29)          | [이동우](https://github.com/gs0428)            | [이도경]()                                     | [강정현]()                                     | [김우성]()                                     
 |------------------------------------------|---------------------------------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| <img width=520  src="profile/images/jwh.jpeg"> | <img width = "520" src ="profile/images/jyj.jpg"> | <img width = "520" src ="profile/images/jjw.jpeg"> | <img width = "520" src ="profile/images/ldw.png"> | <img width = "520" src ="profile/images/ldg.png"> | <img width = "520" src ="profile/images/gjh.jpg"> | <img width = "520" src ="profile/images/kws.JPG"> |
+| <img width=520  src="./profile/images/jwh.jpeg"> | <img width = "520" src ="./profile/images/jyj.jpg"> | <img width = "520" src ="./profile/images/jjw.jpeg"> | <img width = "520" src ="./profile/images/ldw.png"> | <img width = "520" src ="./profile/images/ldg.png"> | <img width = "520" src ="./profile/images/gjh.jpg"> | <img width = "520" src ="./profile/images/kws.JPG"> |
 | Leader, frontend, DevOps                 | frontend                                    | frontend                                     | Backend, DevOps                             | Backend                                     | Backend                                     | Backend                                     |
 
