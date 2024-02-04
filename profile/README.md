@@ -99,7 +99,7 @@
 <br>
 <br>
 
-## 🛠 ️System Archtecture
+## 🛠 ️System Architecture
 <p align="left">
 <img width="700" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/420084c6-195d-4dbc-9c27-9d2a88f6df4d">
 </p>
