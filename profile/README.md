@@ -101,7 +101,7 @@
 
 ## 🛠 ️System Architecture
 <p align="left">
-<img width="700" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/127114299/420084c6-195d-4dbc-9c27-9d2a88f6df4d">
+<img width="700" src="https://github.com/2023-Winter-techeer-Bootcamp-Team-E/.github/assets/121246589/1f520c57-1be1-4c12-af1d-bbf38cbe5c9a">
 </p>
 
 ## 🔑 ERD
